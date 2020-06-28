@@ -34,7 +34,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
 
     <!-- == SOFTWARE SPECIFIC SECTION == -->
     <!-- This section is about the software itself -->
-    <title>doom2-maps-nova3 (Install)</title>
+    <title>Nova3 (Doom2 Megawad)</title>
     <authors>Nova 3 Team</authors>
     <!-- projectUrl is required for the community feed -->
     <projectUrl>https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/nova3</projectUrl>
